@@ -22,4 +22,7 @@
 <a href="https://www.linkedin.com/in/matheus-de-oliveira-peres-b43207140/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href = "mailto:matheus_peres11@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 <a href="https://suricatestudio.itch.io/"> <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+  
+  ![Snake animation](https://github.com/mathperes/mathperes/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
