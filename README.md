@@ -7,7 +7,7 @@
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathperes&show_icons=true&theme=radical&bg_color=DEG,000000,35005d,47007d,8d00bf)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathpere&layout=compact&theme=radical&bg_color=DEG,000000,35005d,47007d,8d00bf)](https://github.com/mathperes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathperes&layout=compact&theme=radical&bg_color=DEG,000000,35005d,47007d,8d00bf)](https://github.com/mathperes/github-readme-stats)
 
 ##
 
